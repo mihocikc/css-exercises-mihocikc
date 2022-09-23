@@ -2,7 +2,18 @@
 * **The second element**: blue text and a font size of 36px
 * **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
 * **The fourth element**: a light green background, a font size of 24px, and bold*/
-p {
-    background-color: pink;
+* {
     font-family: "Verdana", "DejaVuSans", "sans-serif";
-}]
+}
+p {
+    background-color: #fabbc5;
+}
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+#four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
